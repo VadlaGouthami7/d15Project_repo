@@ -24,7 +24,7 @@ schemas.py
 database.py
 -> for defining the connection with mysql_database
 
-models.py 
+model.py 
 -> to define the structure of tables in the database
 
 crud.py
