@@ -30,6 +30,9 @@ model.py
 crud.py
 -> to perform crud operations on the data
 
+requirements.txt
+-> Project dependencies
+
 ### 📌 Project Overview
 
 This project was developed as part of my backend development learning journey. It demonstrates how to build REST APIs, connect them to a MySQL database, validate incoming data using Pydantic, and perform database operations using SQLAlchemy ORM.
