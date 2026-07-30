@@ -34,7 +34,7 @@ crud.py
 
 This project was developed as part of my backend development learning journey. It demonstrates how to build REST APIs, connect them to a MySQL database, validate incoming data using Pydantic, and perform database operations using SQLAlchemy ORM.
 
-###🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 + Python 3.x
 + FastAPI
